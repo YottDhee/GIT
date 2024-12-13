@@ -6,6 +6,6 @@
   <body>
     <p>You will be redirected to MithunTechTraining soon!</p>
     <p>We are learning Git Now</p>
-    <p>Git & Maven</p>
+    <p>Git and Maven</p>
   </body>
 </html>
